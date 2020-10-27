@@ -1,0 +1,99 @@
+body {
+    background-image: url('./assets/background.png');
+    background-position: center;
+  }
+
+  main {
+    height: auto;
+  }
+
+  p {
+      margin-top: 0px;
+      margin-bottom: 0px;
+  }
+  
+  .header {
+    color: #4aaaa5;
+    /* font-family: "Source Serif Pro", serif; */
+    font-weight: bold;
+  }
+  
+  .sticky-top {
+    color: white;
+    font-weight: bold;
+    width: 100%;
+  }
+
+
+  .navbar {
+    padding: 10px;
+    border-bottom: 2px solid #bbbbbb;
+    background-color: #ffffff;
+    width: 100%;
+  }
+
+  .navbar-brand {
+    background-color: #4aaaa5;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: "Source Serif Pro", serif;
+  }
+
+  #font-white {
+      color:white;
+  }
+
+  .textwrap {
+    float: left;
+    margin: 10px;
+  }
+
+
+  .about-background {
+      background-color: white;
+      margin-top: 50px;
+      padding-left: 25px;
+      padding-top: 25px;
+  }
+
+  .about-background h1 {
+      color: #4aaaa5;
+  }
+  
+  .container {
+      background-color: white;
+      margin-top: 50px;
+      margin-bottom: 20px;
+      margin-right: 20px;
+      margin-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 20px;
+      float: left;
+  }
+
+  .container h1 {
+      font-family: "Source Serif Pro", serif;
+      font-weight: bold;
+  }
+
+  .footer {
+    background-color: #bbbbbb;
+    border-top: 5px solid #4aaaa5;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .btn-primary {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+  } 
