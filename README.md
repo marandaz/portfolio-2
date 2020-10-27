@@ -51,11 +51,9 @@
 
 ### Built With
 
-* <!-- replace with languages used to build this -->
-* <!-- replace with languages used to build this -->
-* <!-- replace with languages used to build this -->
-* <!-- replace with languages used to build this -->
-* <!-- replace with languages used to build this -->
+* HTML
+* CSS
+* Bootstrap
 
 ## Getting Started
 
