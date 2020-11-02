@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/marandaz/portfolio-2">
-    <img src="./assets/images/hpmobile.png" alt="Logo" width="max" height="600px">
+    <img src="./assets/hp.png" alt="Logo" width="max" height="600px">
   </a>
 
   <h3 align="center">Maranda Rochelle's Portfolio</h3>
@@ -39,9 +39,9 @@
 
 <p align="center">
 <a href="https://marandaz.github.io/portfolio-2/">
-    <img src="assets/images/hpmobile.png" alt="homepage on mobile" width="max" height="600px"/>
+    <img src="assets/hp.png" alt="homepage on mobile" width="max" height="600px"/>
     .
-    <img src="assets/images/hpdesktop.png" alt="homepage on desktop" width="max" height="600px"/>
+    <img src="assets/portfolio.png" alt="homepage on desktop" width="max" height="600px"/>
 
 </a>
 </p>
